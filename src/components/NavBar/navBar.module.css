@@ -1,0 +1,17 @@
+.posts{
+    grid-area: n;
+    background-color: red;
+    padding:20px;
+}
+
+.item a{
+    color: white;
+    text-decoration: none;
+}
+
+.item a.activeLink{
+    color:purple;
+}
+.size{
+    font-size: 20px;
+}
